@@ -9,3 +9,6 @@ function toWeirdCase(string) {
 
     return string;
 }
+
+
+module.exports = toWeirdCase;
